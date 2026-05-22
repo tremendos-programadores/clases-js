@@ -10,7 +10,7 @@ console.log(obj["-clave2"])
 
 
 const texto="-clave2";
-const fafafa= "asdasdasdsa"
+const fafafa= "sdadasdsad"
 
 console.log(obj[texto])
 console.log(obj[fafafa])
